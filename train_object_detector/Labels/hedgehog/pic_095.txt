@@ -1,0 +1,3 @@
+pic_095.jpg hedgehog 16 20 152 121
+pic_095.jpg hedgehog 26 70 106 120
+pic_095.jpg hedgehog 163 8 280 129

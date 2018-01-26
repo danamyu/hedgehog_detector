@@ -1,0 +1,2 @@
+pic_048.jpg hedgehog 26 59 138 130
+pic_048.jpg hedgehog 138 70 243 131

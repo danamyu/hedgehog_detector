@@ -1,0 +1,2 @@
+pic_141.jpg hedgehog 144 11 273 86
+pic_141.jpg hedgehog 144 87 274 154
