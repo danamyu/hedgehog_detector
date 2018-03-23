@@ -28,6 +28,8 @@ Train and val images are saved in separate directories. I created the convert_to
          + out_graph
              - saved_model.pb
          - object_detection_tutorial.ipynb
+         + test_images
+         
 + train_object_detector
    - Images
    - Labels
